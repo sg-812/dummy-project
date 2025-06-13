@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(10, 209, 179);
+}
+.main{
+    /* border-width:2px;
+    border-style:solid;
+    border-color:black; */
+    /* border:2px solid black; */
+    width:60%;
+    margin:15% auto;
+}
+.leftPart{
+    background-color: burlywood;
+    width:50%;
+    float:left;
+    padding:40px;
+}
+.rightPart{
+    background-color: crimson;
+    width:50%;
+    float:right;
+    padding:40px;
+}

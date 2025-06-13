@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: rgb(162, 25, 247); */
+    /* background-image: linear-gradient(to bottom right,rgb(88, 232, 251),rgb(169, 42, 219));
+    background-repeat: no-repeat; */
+
+    background-image: url('../images/dark-theme-background-q62o6998n8bqxzrf.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.formDiv{
+    background-color: white;
+    width:30%;
+    margin:160px auto;
+    padding:10px 20px;
+}
+.cross{
+    text-align: right;
+    font-weight: 800;
+}
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+label{
+    /* background-color: aqua; */
+    display:block;
+}
+input{
+    display:block;
+    width:100%;
+    padding:10px;
+}
+input[type='text'],.forget{
+    margin-bottom: 15px;
+}
+input[type='submit']{
+    background-color: rgb(162, 25, 247);
+    color:white;
+    border:none;
+    margin-bottom: 20px;
+}
+.purpleText{
+    color:rgb(183, 36, 247);
+}
+.member{
+    text-align: center;
+    margin-bottom: 15px;
+}
