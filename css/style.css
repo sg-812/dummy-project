@@ -15,14 +15,14 @@ body{
 }
 
 .formDiv{
-    background-color: white;
+    background-color: rgb(254, 227, 227);
     width:30%;
     margin:160px auto;
     padding:10px 20px;
 }
 .cross{
     text-align: right;
-    font-weight: 800;
+    font-weight: 900;
 }
 h2{
     text-align: center;
